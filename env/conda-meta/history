@@ -1,5 +1,5 @@
-==> 2022-10-21 20:03:52 <==
-# cmd: C:\Users\vijit\Anaconda3\Scripts\conda-script.py create --prefix ./env python=3.8 -y
+==> 2022-10-21 22:13:30 <==
+# cmd: C:\Users\vijit\anaconda3\Scripts\conda-script.py create -p ./env python=3.8 -y
 # conda version: 22.9.0
 +defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
 +defaults/win-64::ca-certificates-2022.07.19-haa95532_0
