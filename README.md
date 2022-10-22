@@ -13,3 +13,6 @@
 10. Update the dvc.yaml
 11. run "dvc repro" for running all the stages in pipeline
 
+
+![image](https://user-images.githubusercontent.com/75209200/197322754-a42f69d7-4409-4dda-90f4-8dd25cd60ae8.png)
+
