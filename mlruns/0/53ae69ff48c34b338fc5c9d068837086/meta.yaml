@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vijit/CNN/mlruns/0/53ae69ff48c34b338fc5c9d068837086/artifacts
+end_time: 1666514788325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53ae69ff48c34b338fc5c9d068837086
+run_name: overjoyed-donkey-579
+run_uuid: 53ae69ff48c34b338fc5c9d068837086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666514749994
+status: 3
+tags: []
+user_id: vijit
